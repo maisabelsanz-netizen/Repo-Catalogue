@@ -70,7 +70,7 @@ header {
 }
 /* Hero sektion (Landing) */ 
 .hero-image {
-    background-image: url(Images/bg.png);
+    background-image: url(bg.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
