@@ -46,8 +46,6 @@ header {
 /* This is the hover */
 .menu-list a:hover {
     text-decoration: underline;
-    transition-delay: 0.7;
-    scroll-behavior: smooth;
 }
 /* (Desktop och mobilanpassat) When the screen reduces till 630px the navigation menu changes to vertical*/
 @media (max-width: 600px) {
